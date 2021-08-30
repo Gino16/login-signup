@@ -265,7 +265,7 @@ form.sign-up-form {
     opacity: 0;
 }
 
-.container.sign-up-mode form.sign-in-form {
+.container.sign-up-mode form.sign-up-form {
     z-index: 2;
     opacity: 1;
 }
